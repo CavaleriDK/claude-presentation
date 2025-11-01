@@ -487,6 +487,7 @@ const Presentation = () => {
         "🔧 docs.claude.com/claude-code - Claude Code specific",
         "💡 anthropic.com/engineering/claude-code-best-practices",
         "🎯 anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+        "📊 Presentation: https://github.com/CavaleriDK/claude-presentation",
         "",
         "Questions?"
       ]
